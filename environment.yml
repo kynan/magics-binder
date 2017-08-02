@@ -1,9 +1,7 @@
 name: magics
 channels:
-  - kynan
   - conda-forge
 dependencies:
-  - eccodes=2.0.0
-  - magics=develop
+  - magics
   - requests
   - ipywidgets
